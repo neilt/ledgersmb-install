@@ -1,11 +1,13 @@
 
 # LedgerSMB Install
 
-## Intro
+This doc is initially for keeping my personal notes regarding an eventual install document for LedgerSMB. Comments are welcome either as issues in the git repository or on matrix.
 
-This doc is initially for keeping my notes regarding an eventual install document for LedgerSMB. Comments are welcome either as issues in the git repository or on matrix.
+## Overview
 
-My writing style is to start by just writing ideas no matter how imperfect, thanks to my writing professor getting me over my hesitation to write. I say this because some people instinctively write finished prose. I don't. This document will get a lot of rewrites before it is ready for consideration. So there is no need to comment on grammar.  
+This document is completely replaced by the instructions at [https://get.ledgersmb.org](https://get.ledgersmb.org)
+
+My writing style is to just start writing ideas no matter how imperfect, thanks to my writing professor getting me over my hesitation to write. I say this because some people instinctively write finished prose. I don't. This document will get a lot of rewrites before it is ready for consideration. So there is no need to comment on grammar.  
 
 Some of the content here may be copied from others and the LedgerSMB web site, all of course used by permission. If an acknowledgement is missed just let me know, it is not intentional.
 
@@ -65,3 +67,20 @@ There are multiple ways to install LedgerSMB:
 4. __Combinations__ - Installing one or more LedgerSMB components directly in the hardware operating system and one or more LedgerSMB components as docker images
 
    Due to complexity, installing using combinations of docker and bare OS installation are not covered in the LedgerSMB Install instruction.
+
+## Notes to myself
+
+Need to incorporate [gwhitney's experience](https://github.com/ledgersmb/LedgerSMB/issues/4655#issuecomment-647317453)
+
+Current Development Install Instructions
+
+[Wiki 2017](https://ledgersmb.org/content/using-docker-develop-ledgersmb)
+
+[Github](https://github.com/ledgersmb/ledgersmb-dev-docker)
+
+Current Release Install Instructions
+
+[Release Docker](https://github.com/ledgersmb/ledgersmb-docker)
+
+[1.9.5 Readme](https://github.com/ledgersmb/LedgerSMB/blob/1.9.5/README.md)
+
